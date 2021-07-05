@@ -37,6 +37,10 @@ class MainActivity : AppCompatActivity() {
         val diceImage: ImageView = findViewById(R.id.imageView5)
         diceImage.setImageResource(R.drawable.dice_2)
     }
+
+    private fun rollDice(numbers: Int) {
+
+    }
 }
 
 /**
