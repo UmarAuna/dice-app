@@ -39,7 +39,8 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun rollDice(numbers: Int) {
-        val numbers = 2
+        val number = 2
+        val  numbers = number
     }
 }
 
