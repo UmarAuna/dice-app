@@ -40,6 +40,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun rollDice(numbers: Int) {
         val number = 2
+        val data = "Data"
         val  numbers = number
     }
 }
