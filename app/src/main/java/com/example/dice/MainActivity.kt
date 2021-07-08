@@ -44,10 +44,9 @@ class MainActivity : AppCompatActivity() {
             6 -> diceImage.setImageResource(R.drawable.dice_6)
         }
 
+
     }
-
 }
-
 /**
  * Dice with a fixed number of sides.
  */
